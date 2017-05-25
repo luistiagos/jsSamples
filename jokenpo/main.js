@@ -49,6 +49,10 @@ function jogarMultiplayer(jogada) {
    }
 }
 
+function regraJogo() {
+  
+}
+
 function printJogada(usuario, campo, idJogada) {
   var descJogada = "";
   if (idJogada == PEDRA) {
